@@ -1,0 +1,18 @@
+#header ul li{
+    background: url(dot.gif) no-repeat 1px 13px;
+  padding-left:10px;
+    list-style: none;
+    /* display:block; */
+    overflow: hidden;
+    display: list-item;
+    
+   
+}
+#header ul .li1 a{
+    width: 350px;
+    height: 26px;
+    font-size:14px;
+    line-height:26px;
+    display: list-item;
+    overflow: hidden;
+}
